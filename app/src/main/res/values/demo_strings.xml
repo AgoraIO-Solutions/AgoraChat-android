@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">Easemob</string>
-    <string name="demo_app_product_name">Easemob IM Product</string>
+    <string name="app_name">Spectralink</string>
+    <string name="demo_app_product_name">Spectralink Chat</string>
 
     <string name="username">Username</string>
     <string name="password">Password</string>
@@ -38,19 +38,19 @@
     <string name="em_login_tv_server_set">Server configuration</string>
     <string name="em_login_btn_info_incomplete">Username or password cannot be empty.</string>
     <string name="em_login_failed">Login failed</string>
-    <string name="em_login_agreement">I agree to the Easemob Terms of Service and Easemob Privacy Policy</string>
+    <string name="em_login_agreement">I agree to the spectralink Terms of Service and spectralink Privacy Policy</string>
 
     <string name="em_register_btn">Register \u0020</string>
     <string name="em_register_password_confirm_hint">Confirm password</string>
     <string name="em_register_failed">Registration failed</string>
     <string name="em_register_success">Registration complete, please log in. </string>
-    <string name="em_register_privacy_agreement_url">http://www.easemob.com/protocol</string>
-    <string name="em_register_service_agreement_url">http://www.easemob.com/agreement</string>
+    <string name="em_register_privacy_agreement_url">http://www.spectralink.com</string>
+    <string name="em_register_service_agreement_url">http://www.spectralink.com</string>
 
     <string name="em_password_confirm_error">The passwords don\'t match. Please enter them again. </string>
 
     <string name="em_error_network_error">Network unavailable</string>
-    <string name="em_error_not_login">You haven\'t logged in to Easemob</string>
+    <string name="em_error_not_login">You haven\'t logged in to Spectralink</string>
     <string name="em_error_parse_error">Parsing error</string>
     <string name="em_error_err_unknown">Network error, please try again later. </string>
     <string name="em_err_image_android_min_version">Image upload only supported in v4.4 and above</string>
@@ -280,7 +280,7 @@
 
     <string name="em_about_me_set">Settings</string>
     <string name="em_about_me_feedback">Feedback</string>
-    <string name="em_about_me_hx">About Easemob IM</string>
+    <string name="em_about_me_hx">About Spectralink Chat</string>
     <string name="em_about_me_developer">Developer Services</string>
     <string name="em_set_security">Account and Security</string>
     <string name="em_set_privacy">Privacy</string>
@@ -291,7 +291,7 @@
     <string name="em_privacy_equipments">Multi-Device Management</string>
     <string name="em_about_hx_product_introduction">Product introduction</string>
     <string name="em_about_hx_company_introduction">About Company</string>
-    <string name="em_about_hx_version">Easemob IM %1$s</string>
+    <string name="em_about_hx_version">Spectralink Chat %1$s</string>
     <string name="em_developer_version">Current SDK Version</string>
     <string name="em_developer_appkey_self">Custom AppKey</string>
     <string name="em_developer_appkey_self_add">Add custom AppKey</string>
@@ -307,7 +307,7 @@
     <string name="em_developer_service_result_unfinished">Unfinished</string>
     <string name="em_user_detail_title">Personal profile</string>
     <string name="em_user_detail_avatar">Avatar</string>
-    <string name="em_user_detail_id">Easemob ID</string>
+    <string name="em_user_detail_id">Spectralink ID</string>
     <string name="em_user_detail_nickname">Nickname</string>
     <string name="em_login_out_hint">Exit now?</string>
     <string name="em_developer_appkey_warning">The current app key and environment configuration have taken effect. To change the app key, you must restart the client!</string>
@@ -380,7 +380,7 @@
     <string name="push_save_failed">Failed to save</string>
     <string name="push_nick">Nickname</string>
     <string name="input_new_nick_hint">Enter a new nickname</string>
-    <string name="nickname_description">After a nickname is set, it will be displayed in place of your Easemob ID on iOS devices during chats with the iOS client demo. If the other person is using an Android client, this nickname will not be displayed. </string>
+    <string name="nickname_description">After a nickname is set, it will be displayed in place of your Spectralink ID on iOS devices during chats with the iOS client demo. If the other person is using an Android client, this nickname will not be displayed. </string>
     <string name="yangshengqi">Play voice with speaker</string>
     <string name="call_option">Call Settings</string>
     <string name="offline_call_push">Offline push for call</string>
